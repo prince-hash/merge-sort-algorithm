@@ -1,7 +1,5 @@
 # merge-sort-algorithm
 
-logo
-
 C++ Program to Implement Merge Sort
 This is a C++ program to sort the given data using Merge Sort.
 
@@ -20,9 +18,7 @@ Problem Solution
 5. Exit.
 
 
-Program/Source Code
-C++ program to implement Merge sort.
-This program is successfully run on Dev-C++ using TDM-GCC 4.9.2 MinGW compiler on a Windows system.
+
 
 #include <iostream>
  
